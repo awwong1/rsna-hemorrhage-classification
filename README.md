@@ -3,6 +3,7 @@
 Source code for University of Alberta, CMPUT 617: Medical Image Analysis (Fall 2019). Lead by Prof. Nilanjan Ray. 
 
 * [Original Kaggle Competition](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview)
+* [Paper Latex/Source Code](https://github.com/awwong1/cmput617-project-paper)
 
 ## Running Instructions
 
